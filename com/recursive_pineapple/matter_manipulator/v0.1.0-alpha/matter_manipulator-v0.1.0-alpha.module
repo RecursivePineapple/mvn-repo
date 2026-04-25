@@ -64,10 +64,10 @@
           "name": "matter_manipulator-v0.1.0-alpha-dev.jar",
           "url": "matter_manipulator-v0.1.0-alpha-dev.jar",
           "size": 4233877,
-          "sha512": "23d0a292dc209db547f6d6a5bb42b7c10cbaffc4a5b1233b3e07a391390b3743441663381961a5ee342c4a32cadb352c9530015ebb73cd27375818a6e0a3ddd8",
-          "sha256": "b306e65429d57909af9adbd80dd43fe6ac4d21d5769b7151473c9e962e36eb62",
-          "sha1": "3b92f6650b0d6198da4c3adc9152c52177d65625",
-          "md5": "32d5b04ae196c664003f2b1f73c1a637"
+          "sha512": "0e82ff5de2d7c3dbdc9e29f57e897f1b0444f1de36356b47f97a1a0cc2bdbd8432d6c74b3bba6f6aa0e426cfa96802a61876194db68b113006cfacc8aba9da6d",
+          "sha256": "9201aec426cefb9262d6c466208c070176fc1c6aa521ae7bc3d784af0b1921ab",
+          "sha1": "ddd83e7c9603a8550a924cf3427f3a3c08f51b65",
+          "md5": "7baec189bdd622933a02247561d2f9e1"
         }
       ]
     },
@@ -142,10 +142,10 @@
           "name": "matter_manipulator-v0.1.0-alpha-dev.jar",
           "url": "matter_manipulator-v0.1.0-alpha-dev.jar",
           "size": 4233877,
-          "sha512": "23d0a292dc209db547f6d6a5bb42b7c10cbaffc4a5b1233b3e07a391390b3743441663381961a5ee342c4a32cadb352c9530015ebb73cd27375818a6e0a3ddd8",
-          "sha256": "b306e65429d57909af9adbd80dd43fe6ac4d21d5769b7151473c9e962e36eb62",
-          "sha1": "3b92f6650b0d6198da4c3adc9152c52177d65625",
-          "md5": "32d5b04ae196c664003f2b1f73c1a637"
+          "sha512": "0e82ff5de2d7c3dbdc9e29f57e897f1b0444f1de36356b47f97a1a0cc2bdbd8432d6c74b3bba6f6aa0e426cfa96802a61876194db68b113006cfacc8aba9da6d",
+          "sha256": "9201aec426cefb9262d6c466208c070176fc1c6aa521ae7bc3d784af0b1921ab",
+          "sha1": "ddd83e7c9603a8550a924cf3427f3a3c08f51b65",
+          "md5": "7baec189bdd622933a02247561d2f9e1"
         }
       ]
     },
@@ -163,10 +163,10 @@
           "name": "matter_manipulator-v0.1.0-alpha.jar",
           "url": "matter_manipulator-v0.1.0-alpha.jar",
           "size": 4274765,
-          "sha512": "407891ed16be712f0852d3eebd8d83f9761eb3c7526e86d51e192fb91313f3528553c5fd7fcdf844893588d4e757bc719dc1cbcbc06780f480541904de4cf162",
-          "sha256": "76ed5199c7794a017584e2caa4e39cedbcd0021130824c210538a4ad79e17668",
-          "sha1": "0571de6c4a0909ada99ed41e8066e2358096504f",
-          "md5": "1f7329fa369950f0a42da24f682d2dca"
+          "sha512": "c1058a05f134556db818a52f3cc900749ba30b0f13c123305ae0d668b415fd8ca2bafecb8c841cd4a623e7646cf7f4a9a9a34a84e551a75d9da01081fe617d0e",
+          "sha256": "f947cb943a875da708444f250370ad5834e470c55d9f7a0beda3c06dabb96f8e",
+          "sha1": "90d60700c1c7d154aa50b442d28d638cd51c1006",
+          "md5": "91aaeac54a2d4f5bc8dfeaa83e2ed91b"
         }
       ]
     },
@@ -184,10 +184,10 @@
           "name": "matter_manipulator-v0.1.0-alpha-sources.jar",
           "url": "matter_manipulator-v0.1.0-alpha-sources.jar",
           "size": 377569,
-          "sha512": "8ec0bf7c0a58cb53f4274491bfd0195fb2f703540dce92614028a7ed4318ce68cf99c143829497ef07d4a99c7f60c9bd70e8ac4bde705aeff3344f7e500c2a43",
-          "sha256": "2d28a08aa1bc71e6528de3da5aa0682ab0421288a2bf693e024f54a8bed14011",
-          "sha1": "a57c4b0804d9d6c42d3b497b1213bc2837e56c9d",
-          "md5": "d3338eea545ced216e1b06aac2f6ea8b"
+          "sha512": "9145a4b248a0e994d578f310d6f993f7eec9e9df74f333225db9a58049b3dbf1cef68c737b5d9d0894e59d763342589868c2b67d82eaa9eb00093dc4485b19c2",
+          "sha256": "d4d6b562e75ac09ea2126598317ae11d2ee9e3c28606df14e8d3c89d50a39718",
+          "sha1": "dc71590e207bb6dff41d5adc0bcfcb555ada6b0b",
+          "md5": "97ab0fdb0bfdcb8208d1e5875502e0a6"
         }
       ]
     }
