@@ -3,12 +3,13 @@
   <groupId>com.recursive_pineapple</groupId>
   <artifactId>matter_manipulator</artifactId>
   <versioning>
-    <latest>v0.1.1-alpha</latest>
-    <release>v0.1.1-alpha</release>
+    <latest>v0.1.2-alpha</latest>
+    <release>v0.1.2-alpha</release>
     <versions>
       <version>v0.1.0-alpha</version>
       <version>v0.1.1-alpha</version>
+      <version>v0.1.2-alpha</version>
     </versions>
-    <lastUpdated>20260426221757</lastUpdated>
+    <lastUpdated>20260503162842</lastUpdated>
   </versioning>
 </metadata>
