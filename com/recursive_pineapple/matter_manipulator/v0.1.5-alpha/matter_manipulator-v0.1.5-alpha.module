@@ -1,0 +1,195 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.recursive_pineapple",
+    "module": "matter_manipulator",
+    "version": "v0.1.5-alpha",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "com.gtnewhorizons.retrofuturagradle.obfuscation": "mcp",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "zone.rong",
+          "module": "mixinbooter",
+          "version": {
+            "requires": "10.6"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.cleanroommc",
+          "module": "modularui",
+          "version": {
+            "requires": "3.1.5"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "24.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "matter_manipulator-v0.1.5-alpha-dev.jar",
+          "url": "matter_manipulator-v0.1.5-alpha-dev.jar",
+          "size": 4436409,
+          "sha512": "3b3e0c1bf81146e79feb291f6c4ab1e3094f23fcf36d56b17e137804e8828163e83fd901067dd201175fd64b47bdec6cad2961d7068bd67ee5b6f8260d73a1b1",
+          "sha256": "c1266684f6016eb310a1da36222a2aee5c53d65ac140ee7ae0a760c2829cf8ab",
+          "sha1": "1daac5de8a70ca56a82e314adcfd0b08baba0c07",
+          "md5": "c067cdee1fed537f685cbd0db23fbb9f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "com.gtnewhorizons.retrofuturagradle.obfuscation": "mcp",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "mezz.jei",
+          "module": "jei_1.12.2",
+          "version": {
+            "requires": "4.16.1.302"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "top-245211",
+          "version": {
+            "requires": "2667280"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.7"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.7"
+          }
+        },
+        {
+          "group": "zone.rong",
+          "module": "mixinbooter",
+          "version": {
+            "requires": "10.6"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.cleanroommc",
+          "module": "modularui",
+          "version": {
+            "requires": "3.1.5"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "matter_manipulator-v0.1.5-alpha-dev.jar",
+          "url": "matter_manipulator-v0.1.5-alpha-dev.jar",
+          "size": 4436409,
+          "sha512": "3b3e0c1bf81146e79feb291f6c4ab1e3094f23fcf36d56b17e137804e8828163e83fd901067dd201175fd64b47bdec6cad2961d7068bd67ee5b6f8260d73a1b1",
+          "sha256": "c1266684f6016eb310a1da36222a2aee5c53d65ac140ee7ae0a760c2829cf8ab",
+          "sha1": "1daac5de8a70ca56a82e314adcfd0b08baba0c07",
+          "md5": "c067cdee1fed537f685cbd0db23fbb9f"
+        }
+      ]
+    },
+    {
+      "name": "reobfElements",
+      "attributes": {
+        "com.gtnewhorizons.retrofuturagradle.obfuscation": "srg",
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "matter_manipulator-v0.1.5-alpha.jar",
+          "url": "matter_manipulator-v0.1.5-alpha.jar",
+          "size": 4480321,
+          "sha512": "dbfd7a3c55c8b8c17957dcdd438c404b62552f660d067891ecb80ca5f760557355a49168a9c4f209b9b1cacd1691cfb46b3e999c6aaf2415bf8c860c2952f42f",
+          "sha256": "5a195cf6de08497144773ff2f5b085aa49353d7a608e8074c1183c50fff8b4b2",
+          "sha1": "c344c83e9770559fe428473af81edae43713c05e",
+          "md5": "79843d29edd348da0fa210a2ebb0ee88"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "com.gtnewhorizons.retrofuturagradle.obfuscation": "mcp",
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "matter_manipulator-v0.1.5-alpha-sources.jar",
+          "url": "matter_manipulator-v0.1.5-alpha-sources.jar",
+          "size": 435233,
+          "sha512": "56e4597220a32bd585f613a24a2a0928687dad5620aa15afcbc74454ed033f1ea58a088912a86906922d9bf1357585013ab9b59446a4077f8411d7d18371f013",
+          "sha256": "97cf9addca07973b5e7ec94c65a995d66963b1ffa37dec3f69ac185acc5ba452",
+          "sha1": "bd991f0db257cfc625e07df96d6a0568bf86712e",
+          "md5": "04a2de2c09a8f3aab56853f2e13e24af"
+        }
+      ]
+    }
+  ]
+}
